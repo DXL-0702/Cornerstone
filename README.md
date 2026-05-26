@@ -3,4 +3,6 @@
 我始终相信拥有实际的底层开发经验才能更好地进行vibe coding，在每一次亲自面临思考到落地的困境时才能体会到ai的数据源为我们规避了多少走不通的路，因此这个repo将会作为我古法写一些底层小玩意儿（maybe easy or intricate）的见证者。
 - 我不知道这个库能坚持多久，但我会尽我所能去延长它的寿命。
 - 我也不知道这个库该public还是private，但目前来说我希望与我有相似思考的人可以去看看我的这个想法。
-- 既然如此，刚加入esap（https://weare.esaps.net）（顺便宣传一波）的AptS:1999 (Sylvia)要坚定自己的选择奥。
+- 既然如此，AptS:1999 要坚定自己的选择奥。
+
+**顺便宣传一波**: [weare.esaps.net](https://weare.esaps.net)
